@@ -151,11 +151,12 @@ sudo killall pigpiod
 ## 📹 Demo Videos
 
 ### Path Navigation
-https://github.com/navaddip/Smart-Navigation-Robot/blob/main/videos/path_navigation.mp4
+[![Path Navigation](https://img.icons8.com/ios-filled/100/video.png)](videos/path_navigation.mp4)
+
+
 
 ### Bluetooth Voice Feedback
-https://github.com/navaddip/Smart-Navigation-Robot/blob/main/videos/voice_feedback.mp4
-
+[![Voice Feedback](https://img.icons8.com/ios-filled/100/video.png)](videos/voice_feedback.mp4)
 ---
 
 ## 🔌 Wiring Diagram
